@@ -22,7 +22,7 @@ public class RockPaperScissors{
         String msgWinnerisOpponent="You lose. The Opponent won!";
         String msgDraw="It's draw. Play again!";
         
-        //Decraration of userinput
+        //Declaration of userinput
         String userhand="";
         //Initialization of Scanner class
         Scanner sc  =new Scanner(System.in);
