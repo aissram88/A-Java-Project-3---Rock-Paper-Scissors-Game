@@ -1,18 +1,20 @@
 # Rock Paper Scissors Game
-Whai is for?
-
+Let's Play Rock Paper Scissors game with Java!
+Simple rule, Enter your choice from Rock Paper or Scissors.
+ -Rock win against Scissors, Scissors win against Paper, Paper win against Rock
+ -Your choice and opponent choice are same , it is draw. Try again!
+ 
 ## Overview
 How it works?
-- 
-- 
-- 
-- 
-- 
+- Enter your choice from Rock Paper or Scissors.
+- If it is draw, the game will continue.
+- Message will tell you the opponent random choice and who is the winner. 
   
 ## Key Methods
-- Access Modifier (private and final)
-- Getter and Setter methods
-- Object oriented programming - Using Main.java file to activate payroll calculation.
+- Random class and Scanner class
+- One dimensional array
+- while loop
+- if conditional
 
 ## Tool and Tech
 - Visual Studio code
@@ -25,11 +27,3 @@ why did i make this code?
 **Ai Sugita**
 
 Software development & Cyber Security
-
-
-# A-Java-Project-3-Rock-Paper-Scissors-Game
-Built Rock Paper Scissors game
-
-Using Random class and Scanner class
-
-Utilizing One dimentional array,while loop,if conditional,
