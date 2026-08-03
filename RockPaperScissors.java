@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class RockPaperScissors{
 //User input Rock Paper Scissors
 //Random choice from opponent
-//if Rock win against Scissors, Scissors win against Paper, Paper win against Rock
+//Rock win against Scissors, Scissors win against Paper, Paper win against Rock
 // Draw if user and opponent are the same
 
 
