@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 Let's Play Rock Paper Scissors game with Java!<br>
-Simple rule, Enter your choice from Rock Paper or Scissors.
+Simple rule, Enter your choice from Rock Paper or Scissors.<br>
  -Rock win against Scissors, Scissors win against Paper, Paper win against Rock
  -Your choice and opponent choice are same , it is draw. Try again!
  
