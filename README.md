@@ -21,8 +21,14 @@ How it works?
 - Java
 
 ## Objective
-why did i make this code?
+- Try to handle nested if-else conditional inside while loop
+- Pick up an element inside of list using Random class
+- Using Scanner class for user input
 
+## For Next Update
+- Need to consider if user enter wrongly and output message for correction.
+- Small letters also need to be accepted
+   
 ## Author
 **Ai Sugita**
 
