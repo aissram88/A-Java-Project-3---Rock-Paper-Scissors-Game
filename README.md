@@ -9,7 +9,7 @@ How it works?
 2. If it's a draw, the game continues.
 3. The program displays the opponent's randomly chosen move and reveals the winner.
 
-## Key Methods
+## Key Concepts
 - **Random** and **Scanner** classes
 - One-dimensional arrays
 - **while** loops
