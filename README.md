@@ -1,33 +1,32 @@
 # Rock Paper Scissors Game
-Let's Play Rock Paper Scissors game with Java!<br>
-Simple rule, Enter your choice from Rock Paper or Scissors.<br>
--Rock win against Scissors, Scissors win against Paper, Paper win against Rock<br>
--If your choice and opponent choice are same , it is draw. Try again! 
-
+- Rock beats Scissors
+- Scissors beats Paper
+- Paper beats Rock
+- If you and your opponent pick the same item, it's a draw—try again!
 ## Overview
 How it works?
-- Enter your choice from Rock Paper or Scissors.
-- If it is draw, the game will continue.
-- Message will tell you the opponent random choice and who is the winner. 
-  
+1. Choose Rock, Paper, or Scissors.
+2. If it's a draw, the game continues.
+3. The program displays the opponent's randomly chosen move and reveals the winner.
+
 ## Key Methods
-- Random class and Scanner class
-- One dimensional array
-- while loop
-- if conditional
+- **Random** and **Scanner** classes
+- One-dimensional arrays
+- **while** loops
+- **if** conditionals
 
 ## Tool and Tech
 - Visual Studio code
 - Java
 
 ## Objective
-- Try to handle nested if-else conditional inside while loop
-- Pick up an element inside of list using Random class
-- Using Scanner class for user input
+- Practice nested if-else statements inside a while loop.
+- Select a random element from an array using the Random class.
+- Capture user input using the Scanner class.
 
-## For Next Update
-- Need to consider if user enter wrongly and output message for correction.
-- Small letters also need to be accepted
+## Planned Updates
+- Add input validation to display an error message for invalid choices.
+- Make input case-insensitive so lowercase entries (e.g., "rock") are accepted.
    
 ## Author
 **Ai Sugita**
